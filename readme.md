@@ -1,6 +1,6 @@
 # SnakeGame
 
-- Snake Game Board developed with C++.
+- Snake Game developed with C++.
 - Used [SFML library](https://www.sfml-dev.org/).
 
   <img src="snake_game.png">
