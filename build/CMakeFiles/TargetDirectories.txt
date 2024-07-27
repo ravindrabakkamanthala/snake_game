@@ -1,0 +1,3 @@
+/Users/ravindrabakkamanthala/Documents/codebase/cpp/snake_game/build/CMakeFiles/snake_game.dir
+/Users/ravindrabakkamanthala/Documents/codebase/cpp/snake_game/build/CMakeFiles/edit_cache.dir
+/Users/ravindrabakkamanthala/Documents/codebase/cpp/snake_game/build/CMakeFiles/rebuild_cache.dir
